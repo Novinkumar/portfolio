@@ -20,12 +20,12 @@ function Navbar({ goBack }) {
         </a>
 
         <div className="nav-links">
-          <a href="#about">ABOUT</a>
-          <a href="#skills">SKILLS</a>
-          <a href="#projects">PROJECTS</a>
-          <a href="#education">EDUCATION</a>
-          <a href="#contact">CONTACT</a>
-        </div>
+  <a href="#about">ABOUT</a>
+  <a href="#education">EDUCATION</a>
+  <a href="#projects">PROJECTS</a>
+  <a href="#skills">SKILLS</a>
+  <a href="#contact">CONTACT</a>
+</div>
       </div>
     </nav>
   )

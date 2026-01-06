@@ -3,7 +3,24 @@
 =======
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.# Portfolio
+
+This is my personal portfolio website built using React and Vite.
+
+## Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Features
+- Responsive design
+- Smooth animations
+- Modern UI
+
+## Author
+Novin Kumar
+
 
 Currently, two official plugins are available:
 
